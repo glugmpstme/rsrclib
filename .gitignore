@@ -38,3 +38,5 @@ jspm_packages
 
 #html renders of rfcs
 rfc*.html
+
+credentials*.js
