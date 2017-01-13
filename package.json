@@ -1,0 +1,17 @@
+{
+	"name": "mpstme-glug-rsrclib",
+	"version": "0.1.0",
+	"description": "MPSTME GNU/Linux User Group Resource Centre",
+	"repository" :{
+		"type" : "git",
+  		"url" : "https://github.com/glugmpstme/rsrclib.git"
+  	},
+	"bugs": {
+		"url" : "https://github.com/glugmpstme/rsrclib/issues",
+		"email" : "mpstme.glug@gmail.com"
+	},
+	"license" : "BSD-3-Clause",
+	"dependencies": {
+		"express" : "4.14.0"
+	}
+}
