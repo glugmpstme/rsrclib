@@ -39,4 +39,4 @@ jspm_packages
 #html renders of rfcs
 rfc*.html
 
-credentials*.js
+client_secret_*
